@@ -23,4 +23,10 @@
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="210dp" />
 
+    <TextView
+        android:layout_width="426dp"
+        android:layout_height="106dp"
+        android:text="GyeonggiMoney"
+        android:textSize="30dp"/>
+
 </android.support.constraint.ConstraintLayout>
